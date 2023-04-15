@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelSharp", "TelSharp\TelSharp.csproj", "{12A03083-83AD-4EBB-A17A-ABC808D88D7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelSharp.Api", "TelSharp.Api\TelSharp.Api.csproj", "{305156F3-294C-475D-8360-66687A0411FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{12A03083-83AD-4EBB-A17A-ABC808D88D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A03083-83AD-4EBB-A17A-ABC808D88D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A03083-83AD-4EBB-A17A-ABC808D88D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305156F3-294C-475D-8360-66687A0411FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305156F3-294C-475D-8360-66687A0411FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305156F3-294C-475D-8360-66687A0411FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305156F3-294C-475D-8360-66687A0411FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
